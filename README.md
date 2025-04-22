@@ -15,7 +15,12 @@
 <br />
 <br />
 
-An extension that enables you to export your opponent's team from Pokémon Showdown and Limitless. Also fixes images on PokéPaste!
 
+# Features
+- Adds a button to live matches in Pokémon Showdown to export your opponent's open team sheet directly to PokéPaste.
+- Adds a button to team sheets in Limitless to export the team directly to PokéPaste.
+- Sets all of the displayed images of Pokémon to their Pokémon Home images in PokéPaste.
+
+# Gallery
 ![](showdowndemo.gif)
 ![](limitlessdemo.gif)
